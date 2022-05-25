@@ -1,5 +1,3 @@
-GIT repository for csci161-030506/project
-
 Jasper Charlinski
 
 NOTES
