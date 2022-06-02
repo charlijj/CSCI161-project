@@ -3,6 +3,12 @@ April 8th, 2022
 
 <br />
 
+<h3>About: </h3>
+<p>A employee managment program where data nodes for each employee is stored in a linked list. Employees can be hired to one of 4 levels at the company, premoted or demoted between levels, and terminated from the company. Employees can also praticipate in mentorship programs with other employees if the reqierments are met. </p>
+<p>This was my final project submission for CSCI161 at Vancouver Island University</p>
+
+<br />
+
 <h3>Notes</h3>
 
 <p>In hindsight I should have used inheritance to make the ListOfEmployees a child of the ListOfLevel class, 
@@ -37,3 +43,7 @@ I figured this was not a problem since a newly promoted employee could still be 
 Also I assumed in the real world the workplace would end the mentorship before promoting the employee.</p>
 
 <p>Not necessarily a bug, but it is important to note an employee can only have one mentor and one mentee at a time.</p>
+
+<br />
+
+<p>This assignement was created by Dr. David Wessels of Vancouver Island University.</p>
