@@ -4,7 +4,7 @@
 <br />
 
 <h3>About: </h3>
-<p>A employee managment program where data nodes for each employee is stored in a linked list. Employees can be hired to one of 4 levels at the company, premoted or demoted between levels, and terminated from the company. Employees can also praticipate in mentorship programs with other employees if the reqierments are met. </p>
+<p>An employee management program where data nodes for each employee are stored in a linked list. Employees can be hired to one of 4 levels at the company, promoted or demoted between levels, and terminated from the company. Employees can also participate in mentorship programs with other employees if the requirements are met. </p>
 <p>This was my final project submission for CSCI161 at Vancouver Island University</p>
 
 <br />
@@ -18,8 +18,8 @@ and if I were to restart this project from scratch that is what I would do. </p>
 <p>Each employee has a node in both the master list, containing all of the employees, and their level's list, 
 containing all of the employees at a given level. When employees are hired/fired both lists are altered.</p>
 
-<p>For mentorships, a mentor must be at a higher level than their mentee. I choses to make this a rule because
-it makes sense to me that an employee would not want to be mentored be a co-worker at a lower or same level.</p>
+<p>For mentorships, a mentor must be at a higher level than their mentee. I chose to make this a rule because
+it makes sense to me that an employee would not want to by mentored be a co-worker at a lower or same level.</p>
 
 <br />
 
@@ -46,4 +46,4 @@ Also I assumed in the real world the workplace would end the mentorship before p
 
 <br />
 
-<p>This assignement was created by Dr. David Wessels of Vancouver Island University.</p>
+<p>This assignment was created by Dr. David Wessels of Vancouver Island University.</p>
