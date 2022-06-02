@@ -5,7 +5,7 @@
 
 <h3>About: </h3>
 <p>An employee management program where data nodes for each employee are stored in a linked list. Employees can be hired to one of 4 levels at the company, promoted or demoted between levels, and terminated from the company. Employees can also participate in mentorship programs with other employees if the requirements are met. </p>
-<p>This was my final project submission for CSCI161 at Vancouver Island University</p>
+<p>This was my final project submission for CSCI161 at Vancouver Island University.</p>
 
 <br />
 
