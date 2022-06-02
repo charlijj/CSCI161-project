@@ -19,7 +19,7 @@ and if I were to restart this project from scratch that is what I would do. </p>
 containing all of the employees at a given level. When employees are hired/fired both lists are altered.</p>
 
 <p>For mentorships, a mentor must be at a higher level than their mentee. I chose to make this a rule because
-it makes sense to me that an employee would not want to by mentored be a co-worker at a lower or same level.</p>
+it makes sense to me that an employee would not want to be mentored by a co-worker at a lower or same level.</p>
 
 <br />
 
